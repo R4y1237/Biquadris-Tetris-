@@ -11,5 +11,6 @@ This is a two player game, where the two players take turns placing thier blocks
 
 There are also other features, upon clearing two rows players can cause a special effect on the other player. 
 One of the feautres is 'Blind' (shown below) which essentially blinds a portion of the board for the other player until they finish their turn.
+
 <img width="463" height="538" alt="image" src="https://github.com/user-attachments/assets/dff0ccf0-d6ec-4e71-b2c7-20f1767d8fd5" />
 
